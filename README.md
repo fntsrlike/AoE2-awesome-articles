@@ -76,13 +76,15 @@
     - [30 Wololo - Tuturu](https://steamcommunity.com/sharedfiles/filedetails/?id=769318542)：將個人的 30 語音從「Wololo」改成「嘟嘟嚕～」
   - 客製資料片
     - [3x Tech Mod DLC](https://steamcommunity.com/sharedfiles/filedetails/?id=879551382)：所有通用科技可以研發 3 次
+    - [TechPro30x DLC v1.1](https://steamcommunity.com/sharedfiles/filedetails/?id=1431448306)
     - [243x Tech Mod](https://steamcommunity.com/sharedfiles/filedetails/?id=1089857684)：所有通用科技可以研發 243 次
-    - [TeamTech DLC v1.005](https://steamcommunity.com/sharedfiles/filedetails/?id=1391582327)：團隊文明特性和研發的科技共享
+    - [TeamTech DLC v1.007](https://steamcommunity.com/sharedfiles/filedetails/?id=1420922973)：團隊文明特性和研發的科技共享
+    - [TeamTech30X DLC v1.04](https://steamcommunity.com/sharedfiles/filedetails/?id=1422215219)
   - 隨機地圖腳本
     - [Centered minimap with specover layout](https://www.reddit.com/r/aoe2/comments/78exy6/aoe2hd_centered_minimap_with_specover_layout/)：觀戰輔助程式
     - [GigaRandom 2017 Map Pack - By HJFE](https://steamcommunity.com/sharedfiles/filedetails/?id=571172760)：350 種隨機資源、隨機設定的地圖
   - AI
-    [No Action AI](https://steamcommunity.com/sharedfiles/filedetails/?id=926355182)-
+    - [No Action AI](https://steamcommunity.com/sharedfiles/filedetails/?id=926355182)-
     - [Gandalf AI](https://steamcommunity.com/sharedfiles/filedetails/?id=808013226)
     - [New Custom AI - ResonanceBot 5-1c](https://steamcommunity.com/sharedfiles/filedetails/?id=473358292)
     - [Custom AI - ResonanceBot 5-1c 2v6 EX](https://steamcommunity.com/sharedfiles/filedetails/?id=647049302)
