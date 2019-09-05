@@ -1,11 +1,26 @@
-# # AoE2-awesome
-## Conception (觀念)
+# AoE2-awesome-tw
+A curated list of awesome Age of Empires II resources
+
+- [AoE2-awesome-tw](#AoE2-awesome-tw)
+  - [Conception (觀念)](#Conception)
+  - Age Advancement (時代升級)
+  - Economic (經濟)
+  - Civilization (文明)
+  - Maps (地圖)
+    - Arena (圍城)
+    - Arabia (阿拉伯)
+    - Nomad (遊牧)
+  - Competition & Records (賽事、紀錄檔）
+  - Connection (連線)
+  - Live Channels (實況頻道)
+
+## Conception
 - [世紀帝國 II 系列：時代升級所需時間 - 深藏若虛](https://blog.fntsr.tw/articles/2017/01/23/aoe2-time-of-upgrade-ages/)
 - [AOE2 世紀帝國轉學考?! - 看板 AOE - 批踢踢實業坊](https://www.ptt.cc/bbs/AOE/M.1510592863.A.35E.html)
 - [Re: AOE2 世紀帝國轉學考?! 解答篇+一些雜談 - 看板 AOE - 批踢踢實業坊](https://www.ptt.cc/bbs/AOE/M.1510594355.A.AEE.html)
 - [Re: AOE2 攻擊加成與防禦加成 - 看板 AOE - 批踢踢實業坊](https://www.ptt.cc/bbs/AOE/M.1497188075.A.8B6.html)\
 
-## Age Advancement (時代升級)
+## Age Advancement
 - [『保證基本』簡易升城教學與一些觀念討論 - 世紀帝國版 -  鐵之狂傲](http://www.gamez.com.tw/thread-376142-1-1.html)\
 
 ## Economic (經濟)
